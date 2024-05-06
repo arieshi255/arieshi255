@@ -7,7 +7,7 @@ I'm currently programming in my free time.
 ## About me
 - 🔭 I’m currently working on **lower level** and **web** projects
 - 🌱 I’m currently learning [SolidJS](https://github.com/solidjs/solid) and advanced [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on anything Linux, emulator, reverse engineering or web framework related
+- 🤝 I’m looking to collaborate on anything Linux, emulator, reverse engineering or web framework related
 - 💬 Ask me about Linux, Reverse Engineering, DevOps, Scripting, Hardware Hacking
 
 ## Languages and tools
